@@ -5,33 +5,6 @@ DSBDA Lab Assignments - SPPU 6th Semester
 
 Welcome to the Data Science and Big Data Analytics (DSBDA) Lab for the 6th Semester of Savitribai Phule Pune University (SPPU). This repository contains all the lab assignments required for the DSBDA course. Each assignment is designed to enhance your understanding of data science concepts, tools, and techniques.
 
-**Repository Structure**
-
-The repository is organized into the following directories and files:
-dsbda_lab_assignments/
-│
-├── Assignment_1/
-│   ├── README.md
-│   ├── assignment_1.ipynb
-│   ├── data/
-│   │   └── dataset_1.csv
-│   └── report.pdf
-│
-├── Assignment_2/
-│   ├── README.md
-│   ├── assignment_2.ipynb
-│   ├── data/
-│   │   └── dataset_2.csv
-│   └── report.pdf
-│
-├── Assignment_3/
-│   ├── README.md
-│   ├── assignment_3.ipynb
-│   ├── data/
-│   │   └── dataset_3.csv
-│   └── report.pdf
-│
-└── README.md
 
 **Usage**
 
