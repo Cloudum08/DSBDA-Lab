@@ -9,12 +9,19 @@ Welcome to the Data Science and Big Data Analytics (DSBDA) Lab for the 6th Semes
 **Usage**
 
 Clone the repository:
+
   git clone https://github.com/yourusername/dsbda_lab_assignments.git
+  
   cd dsbda_lab_assignments
+  
 Install dependencies:
+
   Make sure you have Python and Jupyter Notebook installed. You can install the required Python packages using:
+  
   pip install -r requirements.txt
+  
 Run Jupyter Notebook:
+
   jupyter notebook
 
 **Contributing**
